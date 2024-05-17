@@ -18,7 +18,8 @@ The robot is designed to compete in the RoboCup Junior competition, where it wil
 RoboCup Junior is a competition for students aged 19 and under that challenges them to build and program robots that can compete in a variety of events, including line following, soccer, rescue, and dance. The competition is designed to encourage young people to pursue careers in STEM (science, technology, engineering, and math) fields and to promote teamwork, creativity, and problem-solving skills.
 
 ## Credits
-This code was written by [George Youhana & his team ].
-
-## License
-Feel free to customize the README file to include additional information about your code and project.
+This code was written by
+- George Youhana
+- Abdallah Elkhouly
+- Mohamed Hany Sallam
+- Nada Ahmed
